@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rgrigore/Poke-Battlez-Frontend/tree/project_documentation.git">
+  <a href="https://github.com/marius-ceobanu/Poke-Battlez-Frontend/tree/project_documentation.git">
     <img src="doc_images/pokelogo.png" alt="Logo" width="300">
   </a>
 
@@ -37,14 +37,14 @@
   <p align="center">
     An awesome web multiplayer game for Pokemon fans!
     <br />
-    <a href="https://github.com/rgrigore/Poke-Battlez-Frontend.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/marius-ceobanu/Poke-Battlez-Frontend.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rgrigore/Poke-Battlez-Frontend.git">View Demo</a>
+    <a href="https://github.com/marius-ceobanu/Poke-Battlez-Frontend.git">View Demo</a>
     ·
-    <a href="https://github.com/rgrigore/Poke-Battlez-Frontend/issues">Report Bug</a>
+    <a href="https://github.com/marius-ceobanu/Poke-Battlez-Frontend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rgrigore/Poke-Battlez-Frontend/issues">Request Feature</a>
+    <a href="https://github.com/marius-ceobanu/Poke-Battlez-Frontend/issues">Request Feature</a>
   </p>
 
 
@@ -92,8 +92,6 @@ Of course, all Pokemon are available to you, together with a comprehensive list 
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. 
-
 #### Backend
 * [Spring Boot (WebSocket/JPA)](https://spring.io/projects/spring-boot)
 * [Lombok](https://projectlombok.org/)
@@ -132,7 +130,7 @@ All prerequisites must be installed, accordingly to the technologies used in thi
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rgrigore/Poke-Battlez-Backend.git
+   git clone https://github.com/marius-ceobanu/Poke-Battlez-Backend.git
    ```
 2. Run the server
 
@@ -140,7 +138,7 @@ All prerequisites must be installed, accordingly to the technologies used in thi
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rgrigore/Poke-Battlez-Frontend.git
+   git clone https://github.com/marius-ceobanu/Poke-Battlez-Frontend.git
    ```
 2. Install NPM packages
    ```sh
@@ -233,13 +231,13 @@ Razvan Grigore - [@My Github](https://github.com/rgrigore) - razvang95@gmail.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/Contributers-2-brightgreen
-[contributors-url]: https://github.com/rgrigore/Poke-Battlez-Frontend/graphs/contributors
+[contributors-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/Forks-0-blue
-[forks-url]: https://github.com/rgrigore/Poke-Battlez-Frontend/network/members
+[forks-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/network/members
 [stars-shield]: https://img.shields.io/badge/Stars-2-blue
-[stars-url]: https://github.com/rgrigore/Poke-Battlez-Frontend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rgrigore/Poke-Battlez-Frontend
-[issues-url]: https://github.com/rgrigore/Poke-Battlez-Frontend/issues
+[stars-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marius-ceobanu/Poke-Battlez-Frontend
+[issues-url]: https://github.com/marius-ceobanu/Poke-Battlez-Frontend/issues
 [linkedin-shield]: https://img.shields.io/twitter/url?label=Linkedin%20-%20Marius&logo=LINKEDIN&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarius-ciprian-ceobanu-3431157b
 [linkedin-marius-url]: https://www.linkedin.com/in/marius-ciprian-ceobanu-3431157b
 [github-marius-shield]: https://img.shields.io/twitter/url?label=GitHub%20-%20Marius&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2Fmarius-ceobanu
